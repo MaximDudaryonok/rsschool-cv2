@@ -1,6 +1,6 @@
 ## **Maxim Dudaryonok**
 ___
-![Myself](/img/myself2.jpg)
+![Myself](../img/myself2.jpg)
 
 
 
