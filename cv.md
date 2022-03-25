@@ -2,7 +2,7 @@
 ## **Maxim Dudaryonok****
 ___
 
-![Myself](https://github.com/MaximDudaryonok/rsschool-cv/blob/gh-pages/img/myself.jpg)
+![Myself](https://github.com/MaximDudaryonok/rsschool-cv/blob/gh-pages/img/myself2.jpg)
 
 ___
  ***
