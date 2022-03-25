@@ -1,7 +1,7 @@
 # ***[Rsschool](https://MaximDudaryonok.github.io/rsschool-cv/)***
 ## **Maxim Dudaryonok****
 ___
-![Myself](/img/mountan.png "Пейзаж с горами")
+![Myself](/img/myself.jpg "Я")
 ___
  ***
 Contact information:
