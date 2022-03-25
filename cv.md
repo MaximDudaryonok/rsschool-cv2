@@ -1,13 +1,29 @@
-# rs-school
-1. Maxim Dudaryonok
-2. https://t.me/maaxim2022
-3. I am 30 years old. I am living in Earth
-4. Some html, css
-5. 
+# ***[Rsschool](https://MaximDudaryonok.github.io/rsschool-cv/)***
+## **Maxim Dudaryonok****
+___
+![Myself](/img/mountan.png "Пейзаж с горами")
+___
+ ***
+Contact information:
+Tel: +375257639947
+E-mail: maxim.dudaryonok@yandex.ru
+Telegram: @maaxim2022
+***
+### **About Myself**
+ I am 30 years old. I am living in Earth
+
+### **Skills**
+1. HTML
+2. CSS
+
 ```
 function multiply(a, b){
 return a * b;
 }
 ```
-6. BNTU
-7. A1
+
+### **Education**
+ BNTU
+
+### **English**
+A1
