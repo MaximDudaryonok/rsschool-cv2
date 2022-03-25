@@ -1,7 +1,7 @@
 # ***[Rsschool](https://MaximDudaryonok.github.io/rsschool-cv/)***
 ## **Maxim Dudaryonok****
 ___
-![Myself](/img/myself.jpg "Я")
+![Myself](https://github.com/MaximDudaryonok/rsschool-cv/blob/gh-pages/img/myself.jpg)
 ___
  ***
 Contact information:
