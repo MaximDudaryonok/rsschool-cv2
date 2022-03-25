@@ -1,10 +1,18 @@
-# ***[Rsschool](https://MaximDudaryonok.github.io/rsschool-cv/)***
-## **Maxim Dudaryonok****
+## **Maxim Dudaryonok**
 ___
+![Myself](/img/myself2.jpg)
 
-![Myself](https://github.com/MaximDudaryonok/rsschool-cv/blob/gh-pages/img/myself2.jpg)
 
-___
+
+
+
+
+
+
+
+
+
+______
  ***
 ## Contact information:
 Tel: +375257639947
